@@ -3,7 +3,7 @@ import re
 import math
 
 # prompts user for credit card number
-NUM = int(input("Credit Card number: ")))
+NUM = int(input("Credit Card number: "))
 
 # check if card is valid using Luhn's Algorithm:
 
